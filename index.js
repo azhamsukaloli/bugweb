@@ -23,8 +23,8 @@ const {
 } = require('@whiskeysockets/baileys');
 
 // ==================== CONFIGURATION ==================== //
-const BOT_TOKEN = "8032606318:AAFi2Mgtoqa_19e1qUniP8gM2riB_HEeGhs";
-const OWNER_ID = "7268089870";
+const BOT_TOKEN = "8243730976:AAFUkBEQxzTy03xw7SyDryChpgWCUOhYR3o";
+const OWNER_ID = "8411305167";
 const bot = new Telegraf(BOT_TOKEN);
 const { domain, port } = require("./database/config");
 const app = express();
